@@ -2,3 +2,6 @@
 
 This repository will try to reproudce the bug described in https://github.com/thenativeweb/get-next-version/pull/48#issuecomment-1285966015
 
+
+## How to reproduce
+Make some changes in the bugfix branch 
