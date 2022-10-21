@@ -4,4 +4,5 @@ This repository will try to reproudce the bug described in https://github.com/th
 
 
 ## How to reproduce
-Make some changes in the bugfix branch 
+Make some changes in the bugfix branch. Sometimes it happens that not all commits get picked up. 
+     
